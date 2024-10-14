@@ -11,5 +11,5 @@ Every project I contribute to supports Linux and is under an open license. Have 
 
 
 - 🔭 I’m currently working on the Blazium Engine
-- 👯 I’m looking to collaborate on the Blazium Engine
-- 🀄 Ask me about Mahjong, I'm always down for a game
+- 👯 I’m looking to collaborate on community game projects
+- 🀄 Ask me about Mahjong, I love to play and teach new players
