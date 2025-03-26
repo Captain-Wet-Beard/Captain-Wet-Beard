@@ -13,5 +13,5 @@ Have more fun, write more code 🤍
 
 
 - 🔭 I’m currently directing some indie game projects with Lacewood Media
-- 🎮 I enjoy playing games for leisure but also market research
+- 🎮 I enjoy playing games for leisure and also market research
 - 🀄 Ask me about Mahjong, I love to play and teach new players
