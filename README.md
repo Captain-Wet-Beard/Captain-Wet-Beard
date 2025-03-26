@@ -2,7 +2,8 @@
 
 I'm a full time indie game dev using the Blazium Engine.
 I contribute to some cool projects, checkout my pinned repos.
-Every public project I contribute to supports Linux and is under an open license. Have more fun, write more code 🤍
+Every public project I contribute to supports Linux and is under a FOSS license.
+Have more fun, write more code 🤍
 
 
 
