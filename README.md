@@ -1,7 +1,7 @@
 ## Hey there, Captain Wet Beard here. Welcome to my GitHub page!
 
 I'm a full time indie game dev using the Blazium Engine.
-I contribute to some cool projects, checkout my pinned repos.
+Checkout the awesome project repos pinned below.
 
 Every public project I contribute to supports Linux and is under a FOSS license.
 Have more fun, write more code 🤍
