@@ -1,8 +1,8 @@
-## Hey there, Captain Wet Beard here. Welcome to my GitHub page!
+## Hey there, welcome to my GitHub page
 
-I'm a full time indie game dev using the Blazium Engine.
+I'm a full time indie game dev using the Blazium Engine
 
-Every project I contribute to supports Linux.
+Every project I contribute to supports Linux
 
 Have more fun, write more code 🤍
 
