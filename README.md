@@ -1,11 +1,10 @@
 ## Hey there, Captain Wet Beard here. Welcome to my GitHub page!
 
-I'm a full time indie game dev using the Blazium Engine. Have more fun, write more code 🤍
+I'm a full time indie game dev using the Blazium Engine.
 
-Every public project I contribute to supports Linux and is under a FOSS license.
+Every project I contribute to supports Linux.
 
-
-
+Have more fun, write more code 🤍
 
 
 
@@ -13,4 +12,4 @@ Every public project I contribute to supports Linux and is under a FOSS license.
 
 - 🔭 I’m currently directing some indie game projects with Lacewood Media
 - 🎮 I enjoy playing games for leisure and also market research
-- 🀄 Ask me about Mahjong, I love to play and teach new players
+- 🀄 Ask me about Mahjong, I love to teach new players
